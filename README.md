@@ -1,5 +1,5 @@
 # XY-Model
-This repository contains codes for XY model in 2D lattice and Small World Network
+This repository contains codes for XY model in 2D lattice, 3D lattice and Small World Network
 ### Build Watts-Strogatz Small World Graph Model
 This function is already availible in MathWork. the link to this function is added below the description.
 The Watts-Strogatz model is a random graph that has small-world network properties, such as clustering and short average path length.
